@@ -1,0 +1,32 @@
+.navbar-brand {
+    /* font-family: Original Surfer;*/       /*Link_1*/
+    font-family: Reggae One;             /*Link_2*/
+    /* font-family: Permanent Marker;*/      /*Link_3*/
+    font-weight: bold;
+}
+.nav_main_container {
+    font-size: 18px;
+    font-family: cursive;
+}
+.fa-salad {
+    font-size: 40px !important;
+    margin-left: 15px;
+}
+.brand_name {
+    font-size: 25px !important;
+}
+.nav-link {
+    color: white !important;
+    text-align: center;
+}
+
+/* Social Link ? */
+
+/* .social_link {
+    display: inline-block;
+    margin-left: 10px;
+} */
+.collapse {
+    display: flex;
+    justify-content: center;
+}

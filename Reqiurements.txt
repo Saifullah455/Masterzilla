@@ -1,0 +1,19 @@
+- - - - - - - - - - -  MASTERZILLA - - - - - - - - - - -
+
+REQIUREMENTS:
+a. Functionality: (#nav options)
+       Menus*
+       Our Story*
+    1.Order Online
+    2.Reservations & (Contact)
+    3.Episodes
+    4.Events Catering
+       About
+
+b. Pages:
+    1 - Menus & Story (#landing page)*
+    2 - Order Online
+    3 - Reservations & Contact
+    4 - Event Catering 
+    5 - Episodes (#each recipe episode on one page)
+    6 - About
