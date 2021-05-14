@@ -1,0 +1,49 @@
+body {
+    background-color: black !important  ;
+}
+.navbar-brand {
+    /* font-family: Original Surfer;*/       /*Link_1*/
+    font-family: Reggae One;             /*Link_2*/
+    /* font-family: Permanent Marker;*/      /*Link_3*/
+    font-weight: bold;
+}
+.nav_main_container {
+    font-size: 18px;
+    font-family: cursive;
+}
+.fa-salad {
+    font-size: 40px !important;
+    margin-left: 15px;
+}
+.brand_name {
+    font-size: 25px !important;
+}
+.nav-link {
+    color: white !important;
+    text-align: center;
+}
+.collapse {
+    display: flex;
+    justify-content: center;
+}
+.social_link {
+    color: white !important;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 2px;
+}
+.menu_heading {
+    font-family: Alfa Slab One;
+    color: white !important;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+.menu_text {
+    color: white !important;
+    text-align: center;
+}
+.menu_order {
+    margin-left: 180px;
+}
