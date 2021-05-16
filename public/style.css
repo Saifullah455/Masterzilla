@@ -38,12 +38,25 @@ body {
     letter-spacing: 2px;
     text-align: center;
     margin-top: 30px;
-    font-size: 30px;
+    font-size: 35px;
 }
 .menu_text {
     color: white !important;
     text-align: center;
 }
-.menu_order {
-    margin-left: 180px;
+.card-body-text {
+    font-size: 12px !important;
+}
+.card_bg_color {
+    background-color: lavender !important;
+}
+.last_menu_button {
+    border-radius: 20px !important;
+}
+.story_text {
+    background-color: rgba(255, 255, 255, 0.753);
+}
+.story_text_align {
+    display: flex;
+    align-content: center !important;
 }
